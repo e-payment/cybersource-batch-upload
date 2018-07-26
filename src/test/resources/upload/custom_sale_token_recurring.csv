@@ -1,0 +1,4 @@
+merchantID=testMID,batchID=test1,creationDate=2018-07-01,recordCount=1,Template=custom,statusEmail=null@cybersource.com,targetAPIVersion=1.110
+merchantReferenceCode,purchaseTotals_currency,purchaseTotals_grandTotalAmount,ccAuthService_run,ccAuthService_commerceIndicator,ccCaptureService_run,recurringSubscriptionInfo_subscriptionID
+MRNTEST1,SGD,1.00,true,recurring,true,0001688958136930
+END,SUM=1.00
